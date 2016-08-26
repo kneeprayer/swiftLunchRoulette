@@ -2,9 +2,6 @@
 //  AppDelegate.swift
 //  sampleOmikuji
 //
-//  Created by Eriko Ichinohe on 2016/06/03.
-//  Copyright © 2016年 Eriko Ichinohe. All rights reserved.
-//
 
 import UIKit
 
